@@ -1,4 +1,8 @@
-<h1 align="center">🐉 Flowseal / experienced coder </h1>
+<h1 align="center">🐉 SaL1s / experienced coder </h1>
+
+<p align="center">
+  Developer building my own projects, learning as I go, and not afraid to break code to make it better.
+</p>
 
 ###
 
@@ -53,21 +57,21 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Flowseal&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SaL1s&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
 ###
 
 <p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Flowseal&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=SaL1s&theme=radical&no-frame=true&no-bg=true&margin-w=4">
 </p>
 
 ###
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaL1s/SaL1s/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaL1s/SaL1s/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SaL1s/SaL1s/refs/heads/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
