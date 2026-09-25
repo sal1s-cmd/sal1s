@@ -1,9 +1,5 @@
 <h1 align="center">🐉 SaL1s / experienced coder </h1>
 
-<p align="center">
-  Developer building my own projects, learning as I go, and not afraid to break code to make it better.
-</p>
-
 ###
 
 <div align="center">
